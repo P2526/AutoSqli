@@ -74,7 +74,7 @@ Designed for **bug bounty hunters & penetration testers**, this tool provides hi
 - Go to **Extender → Extensions**
 - Click **Add**
 - Extension Type: **Python**
-- Select: `AutoSQLiProxy_v4.py`
+- Select: `AutoSQLi.py`
 
 ### 3. Verify
 A new tab will appear:
