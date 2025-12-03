@@ -68,3 +68,19 @@ Designed for **bug bounty hunters & penetration testers**, this tool provides hi
 # 📦 Installation (Burp Suite)
 
 ### 1. Download the extension file:
+
+### 2. Load it in Burp
+- Open **Burp Suite**
+- Go to **Extender → Extensions**
+- Click **Add**
+- Extension Type: **Python**
+- Select: `AutoSQLiProxy_v4.py`
+
+### 3. Verify
+A new tab will appear:
+
+You’re ready to detect SQL injection.
+
+
+
+
