@@ -98,11 +98,6 @@ Feel free to open issues or submit pull requests.
 
 ---
 
-# ❤️ Credits
-
-Developed by **@p2526**  
-
----
 
 # 📄 License
 
