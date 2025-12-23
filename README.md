@@ -16,6 +16,7 @@ It passively scans **all proxy traffic**, fuzzes parameters using multiple paylo
 Designed for **bug bounty hunters & penetration testers**, this tool provides high-accuracy SQLi detection with **near-zero false positives**.
 
 ---
+![AutoSQLi](autosqli.png)
 
 # 🚀 Features
 
